@@ -3,7 +3,7 @@ body{
 }
 .form{
     border: 20px solid white;
-  grid-row: auto;
+
     justify-content: center;
     align-items: center;
     display: block;
